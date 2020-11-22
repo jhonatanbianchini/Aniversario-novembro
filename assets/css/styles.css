@@ -1,0 +1,54 @@
+.container{
+    display: flex;
+    flex-direction: column ;
+    justify-content: center;
+    align-items: center;
+    color:white;
+    background-color: black;
+}
+
+.center{
+    text-align: center;
+    color:white;
+    background-color: black;
+}
+
+#menu li{
+    display: inline;
+    margin: 40px;
+}
+
+#menu li a{
+    text-decoration:  none;
+    color:white;
+}
+
+img{
+border-radius: 50%;
+}
+/* pagina 1 */
+
+.container1{
+    display: flex;
+    flex-direction: column ;
+    justify-content: center;
+    align-items: center;
+    color:black;
+    background-color: white;
+}
+
+.center1{
+    text-align: center;
+    color:black;
+    background-color: white;
+}
+
+#menu1 li{
+    display: inline;
+    margin: 40px;
+}
+
+#menu1 li a{
+    text-decoration:  none;
+    color:black;
+}
